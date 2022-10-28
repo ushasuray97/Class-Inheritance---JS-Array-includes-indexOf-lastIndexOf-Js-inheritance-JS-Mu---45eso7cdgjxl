@@ -1,6 +1,8 @@
 // declare class
 class Shape{
-  var color='red';
+  constructor(){
+      this.color='red';
+  }
   calculateArea(){
     console.log("I am in shape class");
   }
