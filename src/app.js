@@ -1,2 +1,2 @@
-require('shape.js');
-require('circle.js');
+require('./components/shape.js');
+require('./components/circle.js');
