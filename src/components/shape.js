@@ -8,5 +8,5 @@ class Shape{
     console.log("shape drawn");
   }
 }
-module.exports {Shape};
+module.exports=Shape;
 // export class using module.exports
